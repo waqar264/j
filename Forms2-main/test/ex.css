@@ -1,0 +1,41 @@
+table{
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    border:2px solid gray;
+    table-layout: auto;
+    margin: 2px;
+    padding: 2px;
+    
+}
+td,th,tr{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: red;
+    border:1px solid black
+}
+p{ text-align: center;}
+body{    background-image: url(images.jpg);
+background-repeat: no-repeat;
+background-size: 100%;}
+h1{text-align: right;
+color: blue;}
+h2{
+    text-align: right;
+    color: yellow;
+    text-align: end ;
+}
+a:link{
+    color: aqua;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: brown;
+}
+a:target{
+    color:red ;
+}
+    
+

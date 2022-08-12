@@ -1,0 +1,27 @@
+h1,
+h2,
+button {
+    text-align: center;
+    color: white;
+}
+
+p {
+    background-blend-mode: color;
+    color: white;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+}
+
+h4 {
+    text-align: right;
+    color: white;
+}
+
+body {
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

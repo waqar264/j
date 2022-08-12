@@ -1,0 +1,24 @@
+label {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    margin: 0px;
+}
+
+input {
+    text-align: left;
+    color: rgb(255, 0, 0);
+}
+
+body {
+    background-image: url(passport.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+}
+h3{
+    text-align: left;
+}

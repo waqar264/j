@@ -1,0 +1,49 @@
+th,
+tr,
+td {
+    border: 2px solid rgb(255, 255, 255);
+    color: white;
+}
+
+table {
+    border: 2px solid rgb(255, 255, 255);
+    width: 100%;
+    color: white;
+}
+
+body {
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3 {
+    color: white;
+    text-align: right;
+}
+
+h4 {
+    color: Black;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: bisque;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: left;
+    color: white;
+}
+
+label {
+    color: white
+}
